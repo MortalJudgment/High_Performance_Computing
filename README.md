@@ -1,5 +1,5 @@
-# High Performance Computing
-## Professor Laurence Halpern and Juiette Ryan (11/2022 - 12/2022)
+# High Performance Computing (11/2022 - 12/2022)
+## Professor Laurence Halpern and Juiette Ryan
 
 ## Work sheet 1: Solving Laplace equation
 1. Exersice 1
